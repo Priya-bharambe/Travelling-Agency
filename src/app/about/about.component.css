@@ -1,0 +1,65 @@
+.centered {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+.centered1 {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+.centered2 {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+.centered3 {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+.centered4 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+.centered5 {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+.img {
+    width: 100%;
+    height: 500px;
+}
+
+.img1 {
+    width: 100%;
+    height: 400px;
+}
+
+.div {
+    width: 450px;
+    height: 180px;
+    padding: 10px;
+    background-color: white;
+    box-shadow: 10px 10px #888888;
+}
