@@ -1,27 +1,12 @@
-# TravelAgency
+# Output:
+## Home Page:
+![home](https://user-images.githubusercontent.com/77727169/167283579-808a3288-00ab-4e94-9c26-c5885eb44265.png)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.7.
+## Holiday Page:
+![holiday](https://user-images.githubusercontent.com/77727169/167283576-aeb4e140-281f-4761-8995-005aaacd7b76.png)
 
-## Development server
+## Contact Page:
+![contact](https://user-images.githubusercontent.com/77727169/167283575-6934cf93-0bb6-4aa6-873e-dc7a31fe6bce.png)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## About Page:
+![about](https://user-images.githubusercontent.com/77727169/167283570-b0bc004a-63a5-4082-acdd-63d595532d48.png)
